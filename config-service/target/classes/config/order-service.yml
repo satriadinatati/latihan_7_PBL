@@ -1,0 +1,13 @@
+cutomerservice:
+  url: http://localhost:8070/
+monolith:
+  url: http://localhost:8080/
+notificationservice:
+  url: http://localhost:8050/
+productservice:
+  url: http://localhost:8060/
+server:
+  port: 8090
+spring:
+  jpa:
+    open-in-view: false

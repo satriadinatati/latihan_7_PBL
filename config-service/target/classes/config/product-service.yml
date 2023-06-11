@@ -1,0 +1,11 @@
+cutomerservice:
+  url: http://localhost:8070/
+monolith:
+  url: http://localhost:8080/
+orderservice:
+  url: http://localhost:8090/
+server:
+  port: 8060
+spring:
+  jpa:
+    open-in-view: false
